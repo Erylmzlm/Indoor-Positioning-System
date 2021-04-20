@@ -1,4 +1,4 @@
-2018-2019 döneminde DEU Bilgisayar Mühendisliğinde @Erylmzlm ile yapmış olduğumuz bitirme projesinin mobil-server uygulamalarının kaynak kodları.
+2018-2019 döneminde DEU Bilgisayar Mühendisliğinde @hhuseyinpay ile yapmış olduğumuz bitirme projesinin mobil-server uygulamalarının kaynak kodları.
 
 Test Page           |  Map Page
 :-------------------------:|:-------------------------:
